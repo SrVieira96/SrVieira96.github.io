@@ -1,11 +1,19 @@
 .img-link{
     width: 60px;
     height: 60px;
+    background-color: white;
 }
 
 body{
     height: 400px;
     width: 100%;
-    background-image: url("./background.png");
+    background-image: url("pictures/background.jpg");
     background-size: cover;
+    color: white;
+}
+
+
+.header_align{
+    display:inline-block;
+    align:left;
 }
