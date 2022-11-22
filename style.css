@@ -13,7 +13,18 @@ body{
 }
 
 
-.header_align{
-    display:inline-block;
-    align:left;
+
+#container ul {
+
+    text-align: right;
+    margin-right: 30px;
 }
+
+#container li {
+
+    display: inline-block;
+    margin-left:30px;
+
+}
+
+
