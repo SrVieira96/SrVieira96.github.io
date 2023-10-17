@@ -12,8 +12,6 @@ body{
     color: white;
 }
 
-
-
 #container ul {
 
     text-align: right;
@@ -21,10 +19,30 @@ body{
 }
 
 #container li {
-
     display: inline-block;
     margin-left:30px;
 
 }
 
 
+.meuNome {
+    color: white;
+    font-size: 30px;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.subtitulo {
+    color: white;
+    font-size: 15px;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    margin-top: 20px;
+    transform: translateX(50%,-50%);
+}
+
+#foto {
+    width: 60px;
+    height: 60px;
+}
